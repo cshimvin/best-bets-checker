@@ -1,0 +1,207 @@
+%litebox==LITEbox blog==LITEbox is a University-wide initiative supported by the Alumni Fund.==http://blogs.bath.ac.uk/litebox/
+%ideahub==Ideahub blog==Which single new IT service or technology would most improve your working life?==http://blogs.bath.ac.uk/ideahub/
+%50th Anniversary==50th Anniversary celebrations==25 October 2016 is our 50th anniversary and we're planning a year-long programme of events to celebrate. Register for updates. ==http://www.bath.ac.uk/50years/
+regulations==Student regulations==All registered students must comply with our University regulations. ==http://www.bath.ac.uk/regulations/
+research centre==Guidelines for research centres==Guidelines for research centres approved by the Research Committee.==http://www.bath.ac.uk/statutory-bodies-committees/bodies-and-committees-senate/research/index.html
++travel updates==Campus travel updates==Updates for everyone travelling to the University of Bath.==http://blogs.bath.ac.uk/travel-updates/
+%map==Maps of campus and the surrounding area==Maps for the campus and city of Bath.==http://www.bath.ac.uk/travel-advice/location-maps/index.html
++SAMIS change request==SAMIS change request==Request a change to SAMIS such as an enhancement or new development.== https://wiki.bath.ac.uk/x/HDh7B
++research data policy==Research data policy==Details on the policy that applies to all research conducted at the University, regardless of whether or not the research is externally funded.==http://www.bath.ac.uk/research/data/policy/research-data-policy.html
++samis manuals==SAMIS user manuals==SAMIS manuals relating to student processes.==http://www.bath.ac.uk/samis/manuals.htm
++student lookup==Student lookup==Find basic student details (staff only)==https://secure.bath.ac.uk/rol/cgi-bin/ustu7445.pl
++samis user manuals==SAMIS user manuals==SAMIS manuals relating to student processes.==http://www.bath.ac.uk/samis/manuals.htm
++student services==Student Services Centre==The Student Services Centre is the first point of contact for a range of information and support services to help you. You can find us in 4 West and you can also contact our advisers by email or phone.==http://www.bath.ac.uk/students/services/centre/
++staff advice==Student Services advice for staff==Guidance, advice and workshops to help staff support students. ==http://www.bath.ac.uk/staff/student-services/index.html
++student services==Student Services advice for staff==Guidance, advice and workshops to help staff support students.==http://www.bath.ac.uk/staff/student-services/index.html
+%visa==Information for students about visas==Guidance for students about visas and the role of the University as a sponsor.==http://www.bath.ac.uk/students/visa-advice/
++tier 4==Information for staff about student visas==Guidance for staff about the requirements for students with visas and the role of the University as a sponsor.==http://www.bath.ac.uk/visa/staff/index.html
++staff development==Learning and developing==Opportunities for staff to develop new skills and attributes so they can become more successful in their current role and take on other challenges in the future.==http://www.bath.ac.uk/hr/learning/
+%Oracle Calendar==Oracle Calendar==Access your calendar online.==http://calendar.bath.ac.uk
++project management==Project Management==University of Bath has introduced a project management methodology to be used by staff across the University. The resources developed to support the methodology are designed to assist staff in the tasks of scoping, planning, managing and reporting on University projects.==http://go.bath.ac.uk/projectmanagement
+%blog==University of Bath Blogs==Blogs written by staff, students and organisations within the University.==http://blogs.bath.ac.uk
+%blogs==University of Bath Blogs==Blogs written by staff, students and organisations within the University.==http://blogs.bath.ac.uk
+%public lecture==Public lectures==Our upcoming public lectures are open to members of the public, staff and students.==http://www.bath.ac.uk/about/community/public-lectures/index.html
++planning for impact toolkit==Planning for Impact Toolkit==This toolkit is designed to help you plan for impact and gather the information required for grant applications to the Research Councils UK.==http://www.bath.ac.uk/ris/developing-a-proposal.bho/
+%style guide==Style guide==This section provides writing and image style guides to help content creators across all departments to produce engaging text, supported by great photos.==http://www.bath.ac.uk/marketing/guides-assets/style-guides/
++managed print==Managed Print Service status==Find out about the current service status of the Managed Print Service.==http://go.bath.ac.uk/mps
+printing==Managed Print Service status==Find out about the current service status of the Managed Print Service.==http://go.bath.ac.uk/mps
+%printers==Managed Print Service status==Find out about the current service status of the Managed Print Service.==http://go.bath.ac.uk/mps
+managed print service==Managed Print Service status==Find out about the current service status of the Managed Print Service.==http://go.bath.ac.uk/mps
+%mps==Managed Print Service status==Find out about the current service status of the Managed Print Service.==http://go.bath.ac.uk/mps
++lets talk==Let's Talk==Let's Talk is an opportunity to put your questions to the Vice-Chancellor and to hear an update on the latest developments affecting the University.==http://www.bath.ac.uk/letstalk.bho/
++lets talk==Let's Talk==Let's Talk is an opportunity to put your questions to the Vice-Chancellor and to hear an update on the latest developments affecting the University.==http://www.bath.ac.uk/letstalk.bho/
+%ede ravenscroft==The Ede & Ravenscroft Prize==The Ede and Ravenscroft Prize is an annual award for the best postgraduate research student awarded for the first time in 1991 and is generously funded by Ede and Ravenscroft, appointed robemakers to HM The Queen.==http://www.bath.ac.uk/statutory-bodies-committees/bodies-and-committees-senate/erprize/index.html
++summer schools==Summer schools==Our residential summer schools are a great opportunity for school and college students to experience life at a research intensive university.==http://www.bath.ac.uk/study/teachers-advisers-parents/widening-participation/activities-events/summer-schools/index.html
++summer school==Summer schools==Our residential summer schools are a great opportunity for school and college students to experience life at a research intensive university.==http://www.bath.ac.uk/study/teachers-advisers-parents/widening-participation/activities-events/summer-schools/index.html
++ethics resources==Ethics resources==Information and resources regarding ethics in the University of Bath.==http://www.bath.ac.uk/about/values/ethics/index.html
++panopto==Panopto lecture video capture==Panopto makes it easy for anyone to capture, manage, search, and view multimedia presentations online.==http://uniofbath.hosted.panopto.com/Panopto/Pages/Default.aspx
++WPO==Widening Participation Office==The Widening Participation Office runs a programme of events for under-represented groups.==http://www.bath.ac.uk/study/teachers-advisers-parents/widening-participation/index.html
+%library==The Library==The University Library offers a number of information services and learning resources and is open 24 hours a day.==http://www.bath.ac.uk/library/
++Events==What's on==Events and activities through the University of Bath==http://www.bath.ac.uk/whats-on/
++Events==What's on==Events and activities through the University of Bath.==http://www.bath.ac.uk/whats-on/
+%Widening Participation==Widening Participation==We provide a wide range of widening participation activities designed for under-represented groups who have the potential to benefit from Higher Education.==http://www.bath.ac.uk/study/teachers-advisers-parents/widening-participation/index.html
+%agresso==Agresso Login==Log in to Agresso to enter expenses, raise orders, approve transactions and report on projects. ==https://agresso.bath.ac.uk/Agresso/System/Login.aspx
+%social media==Social Media Toolkit==We aim to support researchers in building their own personal digital brand. We offer step-by-step guides to get you started on the platforms of your choice.==http://www.bath.ac.uk/social-tools/
+%pfact==pFACT software package==Full economic costing software for research proposals==http://www.bath.ac.uk/rdso/developing-a-proposal.bho/finance/pfact/index.html
++snow==Guidance on staff attendance during periods of major transport disruption or severe weather conditions== ==http://www.bath.ac.uk/hr/atozhrdocs/severe-weather-transport-disruption.html
+%ccaf==Chemical Characterisation and Analysis Facility (CCAF)==Our facility combines cutting-edge analytical equipment with extensive in-house expertise to provide a comprehensive chemical characterisation service for the commercial sector.==http://www.bath.ac.uk/facilities/ccaf/
+%noticeboard==University noticeboard==Staff and students can advertise items, jobs and accommodation on Noticeboard.==http://www.bath.ac.uk/noticeboard/
+course==Undergraduate study==Find out more about undergraduate study at the University of Bath. ==http://www.bath.ac.uk/study/ug/
++course==Postgraduate study==Learn about the postgraduate study options that we offer.==http://www.bath.ac.uk/study/pg/
+%Vice-Chancellor==Professor Dame Glynis M. Breakwell DBE, DL==Professor Dame Glynis Breakwell DBE, DL has an international reputation as a social psychologist. She has produced more than 20 books including The Psychology of Risk (CUP) and is active as a policy adviser and researcher...==http://www.bath.ac.uk/about/vc/staff-profiles/vice-chancellor/
++accommodation==Undergraduate accommodation==Find out about accommodation available to undergraduate students.==http://www.bath.ac.uk/study/ug/accommodation/
++accommodation==Postgraduate accommodation==Find out what postgraduate accommodation is available here.==http://www.bath.ac.uk/study/pg/accommodation/
++accounting==Accounting and Finance==A list of undergraduate courses relating to accounting.==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=accounting
++alumni==Alumni and Friends==See what a difference the contributions of our alumni have made. Find out about upcoming events, read our latest news and find out how you can offer your support.==http://alumni.bath.ac.uk/
++apply==How to apply==Find out how to apply for one of our undergraduate degree programmes.==http://www.bath.ac.uk/study/ug/apply/index.html
++architecture==Architecture and Civil Engineering==Find out about the Department of Architecture and Civil Engineering.==http://www.bath.ac.uk/ace/
++arts==Arts at Bath==There are many ways to get involved in the Arts at Bath, through the ICIA or the student societies.==http://www.bath.ac.uk/arts/
++atmosphere==Centre for Space, Atmospheric and Oceanic Science==Centre for Space, Atmospheric and Oceanic Science.==http://www.bath.ac.uk/csaos/
++bars==Bars and Eateries==There are a range of bar and restaurant venues offering a variety of food and drink, from healthy takeaway snacks to gourmet local produce. ==http://www.bath.ac.uk/bars-eateries/
++bath==About us==About the University of Bath, our history, structure and policies.==http://www.bath.ac.uk/about/
++BIME==Bath Institute of Medical Engineering==Bath Institute of Medical Engineering==http://www.bath.ac.uk/bime/
++BRE==BRE Centre in Innovative Construction Materials==The BRE Centre for Innovative Construction Materials (BRE CICM) conducts research, development and consultancy in the field of innovative and sustainable construction materials and technologies.==http://www.bath.ac.uk/bre/
++catalogue==Programme & unit catalogues==The Programme and Unit catalogues provide details of the structure of most taught programmes offered by the University and of the content of their component units.==http://www.bath.ac.uk/catalogues/
++chaplain==Chaplaincy==The Chaplaincy is based on campus to offer counsel, advice or just a listening ear for people of all faiths or none.==http://www.bath.ac.uk/chaplaincy/
++chemistry==Chemistry==Find out the Department of Chemistry. ==http://www.bath.ac.uk/chemistry/
++computing==Computer Science==Find out about the Department of Computer Science. ==http://www.bath.ac.uk/comp-sci/
++computing==Computing Services==Computing Services offers help and advice on computing, connecting to the network, emails and your account. ==http://www.bath.ac.uk/bucs/
++contact==Contact us==An A-Z list of contact details for departments and teams within the University. ==http://www.bath.ac.uk/az-contacts/
++contracts==Research & Innovation Service==Research & Innovation Services (RIS) help researchers at the University of Bath develop proposals, run projects and disseminate their findings.==http://www.bath.ac.uk/ris/
++course==Undergraduate prospectus==Search for a degree programme in our undergraduate prospectus.==http://www.bath.ac.uk/study/ug/prospectus/
+open day==Open day==Come to one of our open days to find out more about living and studying at Bath.==http://www.bath.ac.uk/opendays
++degree==Undergraduate prospectus==Search for a degree programme in our undergraduate prospectus.==http://www.bath.ac.uk/study/ug/prospectus/
++economics==Economics==Find out about the Department of Economics. ==http://www.bath.ac.uk/economics/
++education==Department of Education==Find out about the Department of Education. ==http://www.bath.ac.uk/education/
++elearning==e-Learning==E-Learning resources for good practice on a range of issues to help you enhance the effectiveness of your learning and teaching and the quality of the student learning experience.==http://www.bath.ac.uk/learningandteaching/themes/e-learning/
++email==Email==Access your University email account.==https://mail.bath.ac.uk/
++engineering==Faculty of Engineering==Find out about the Faculty of Engineering.==http://www.bath.ac.uk/engineering/
++entry==Postgraduate entry requirements==Information on postgraduate entry requirements, including English language requirements and advice on improving your English language skills. ==http://www.bath.ac.uk/study/pg/apply/qualifications/index.html
++entry==Undergraduate entry requirements==Entry requirements for our undergraduate courses. Lists information on A levels, AS levels, Access programmes, European Baccalaureate qualifications as well as other qualifications and typical offers. ==http://www.bath.ac.uk/study/ug/apply/info/index.html
++epilepsy==Learning Support==The Disability Service is a confidential service who can provide you with information, advice and support if you have a disability, learning difficulties or other conditions. ==http://www.bath.ac.uk/learning-support/
++equality==Equalities & Diversity at Bath==Find our resources, training, policies and practices on different aspects of equality and diversity, events, projects and activities at the University.==http://www.bath.ac.uk/equalities/
++erasmus==Study abroad==We offer a number of opportunities to study abroad, including European exchanges under the Erasmus programme.==http://www.bath.ac.uk/study/ug/why/studyabroad/
++expenses==Expenses==Log in to Agresso to enter expenses, raise orders, approve transactions and report on projects. ==http://www.bath.ac.uk/agresso/
++finance==Accounting and Finance==A list of undergraduate courses relating to finance.==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=finance
++foundation==International Foundation year==The International Foundation Year is a one-year course that will prepare you for entry onto your chosen degree programme.==http://www.bathfoundationyear.com/
++geography==Search our prospectus for courses==We don't currently offer degrees in geography. However, you may be interested in some of our other courses.==http://www.bath.ac.uk/study/ug/prospectus/
++graduation==Graduation==Information on your graduation ceremony. Information includes timing, gown hire and how to order photographs. ==http://www.bath.ac.uk/graduation/
++graduation==Graduation ceremonies==Celebrating our graduation ceremonies. Information on our honorary graduates, notable alumni and past ceremonies.  ==http://www.bath.ac.uk/ceremonies/
++grants==Research & Innovation Services (RIS)==Research & Innovation Services (RIS) help researchers at the University of Bath develop proposals, run projects and disseminate their findings.==http://www.bath.ac.uk/ris/
++health==Department for Health==Department for Health==http://www.bath.ac.uk/health/
++history==Search our prospectus for courses==We don't currently offer degrees in history. However, you may be interested in our Economics or Politics and International Relations courses.==http://www.bath.ac.uk/study/ug/prospectus/
++housing==Private housing==Information and advice about living in private housing. Information on shared accommodation, lodging and the options in Bath.==http://www.bath.ac.uk/study/ug/accommodation/private-housing/index.html
++imaging==Imaging, Design & Print Services==Imaging, Design & Print Services (IDPS) provides graphic design, printing and photography services. ==http://www.bath.ac.uk/design-print-photography/
++industry==Centre for the Study of Regulated Industries==Centre for the Study of Regulated Industries==http://www.bath.ac.uk/management/cri/
++innovation==Research & Innovation Service==Research & Innovation Services (RIS) help researchers at the University of Bath develop proposals, run projects and disseminate their findings.==http://www.bath.ac.uk/ris/
++international==International==Information for international students about applying and studying at the University of Bath. Find out about entry requirements, how to apply, and fees and funding options. ==http://www.bath.ac.uk/study/international/
++joblink==JobLink==Find part-time work opportunities and local 3 month internships with Joblink.==http://www.bathstudent.com/joblink/
++jobs==Job vacancies==Find job vacancies at the University of Bath. ==http://www.bath.ac.uk/jobs/
++language==Self Access Language Centre==The Self Access Language Centre allows staff and students developing their language skills outside the classroom and in their own time.==http://www.bath.ac.uk/salc/
++language==Academic Skills Centre==The Academic Skills Centre provides English language support and guidance. This includes academic writing tutorials and information on the International English Language Testing System (IELTS). ==http://www.bath.ac.uk/asc/
++language==Foreign Languages Centre==The Foreign Languages Centre offer courses in a range of languages, they are open to students, staff and the general public. ==http://www.bath.ac.uk/flc/
++law==Search our prospectus for courses==We don't currently offer degrees in law. However, you may be interested in our Economics or Politics courses.==http://www.bath.ac.uk/study/ug/prospectus/
++logarithms==Mathematics and Statistics Help==The Mathematics and Statistics Help service provides support to all students. Students can drop-in to support sessions and use the online resources. ==http://www.bath.ac.uk/study/mash/
++logarithms==Moodle==Log in to Moodle, the Virtual Learning Environment (VLE), for resources and other learning functions. ==http://moodle.bath.ac.uk/
++management==School of Management==School of Management==http://www.bath.ac.uk/management/
++marketing==Marketing & Communications==The Department of Marketing and Communications plans and implements marketing, communications and engagement activities. ==http://www.bath.ac.uk/marketing
++mathematics==Mathematical Sciences==Find out more about the Department of Mathematical Sciences.==http://www.bath.ac.uk/math-sci/
++maths==Mathematical Sciences==Find out more about the Department of Mathematical Sciences. ==http://www.bath.ac.uk/math-sci/
++doctor==Medical Centre==Make appointments with a doctor or nurse at the University Medical Centre.==http://www.umcbath.co.uk/
++medicine==Search our Prospectus for Medicine==Search our Prospectus for Medicine==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=medicine
++moodle==Moodle log in==Log in to Moodle, the Virtual Learning Environment (VLE), for resources and other learning functions. ==http://moodle.bath.ac.uk/
++nursing==Search our prospectus for medical courses==We don't currently offer degrees in nursing. However, you may be interested in our other medical-related courses.==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=medicine
++ocean==Centre for Space, Atmospheric and Oceanic Science==Centre for Space, Atmospheric and Oceanic Science==http://www.bath.ac.uk/elec-eng/research/csaos/
++organisations==Centre for Business, Organisations and Society==Centre for Business, Organisations and Society==http://www.bath.ac.uk/cbos/
++payroll==Payroll Office==The Payroll Office ensures that all employees are paid in a timely, accurate manner. ==http://www.bath.ac.uk/finance/payroll/
++pharmacology==Pharmacy and Pharmacology==Find out about the Department of Pharmacy and Pharmacology.==http://www.bath.ac.uk/pharmacy/
++pharmacy==Pharmacy==Find out about the Department of Pharmacy and Pharmacology. ==http://www.bath.ac.uk/pharmacy/
++post==Postal Services==The Postal Services team manages the processing of all mail into and out of the University.==http://www.bath.ac.uk/postal-services/
++postgraduate==Postgraduate study==Find out more about postgraduate study. ==http://www.bath.ac.uk/study/pg/
++PR==Corporate Communications Services==Corporate Communications consists of the Press Office, Internal communications and the Events team.==http://www.bath.ac.uk/marketing/teams-services/communications/index.html
++print==Imaging, Design & Print Services==Imaging, Design & Print Services==http://www.bath.ac.uk/design-print-photography/
++programme==Programme & unit catalogues==The Programme and Unit catalogues provide details of the structure of most taught programmes offered by the University and of the content of their component units.==http://www.bath.ac.uk/catalogues/
++purchasing==Purchasing Services==The Purchasing team supports works with staff and suppliers to optimise the procurement of goods, works and services.==http://www.bath.ac.uk/purchasing-services/
++quality==Quality management==Quality management is the way the University assures itself that its standards are maintained.==http://www.bath.ac.uk/quality
++RDSO==Research & Innovation Services (RIS)==Research & Innovation Services (RIS) help researchers at the University of Bath develop proposals, run projects and disseminate their findings.==http://www.bath.ac.uk/ris/
++regulation==Centre for the Study of Regulated Industries==Centre for the Study of Regulated Industries.==http://www.bath.ac.uk/management/cri/
++requirements==Postgraduate entry requirements==Information on postgraduate entry requirements, including English language requirements and advice on improving your English language skills.==http://www.bath.ac.uk/study/pg/apply/qualifications/index.html
++requirements==Undergraduate entry requirements==Entry requirements for our undergraduate courses. Lists information on A levels, AS levels, Access programmes, European Baccalaureate qualifications as well as other qualifications and typical offers.==http://www.bath.ac.uk/study/ug/apply/info/index.html
++room==Postgraduate accommodation==Find out what postgraduate accommodation is available here.==http://www.bath.ac.uk/study/pg/accommodation/
++room==Undergraduate accommodation==Information and eligibility criteria for on-campus and off-campus undergraduate accommodation. ==http://www.bath.ac.uk/study/ug/accommodation/
++samis==SAMIS==SAMIS==http://www.bath.ac.uk/samis
++scholarships==Scholarships and bursaries==Information on scholarships and bursaries available for UK, EU and International students. ==http://www.bath.ac.uk/study/ug/funding/
++science==Faculty of Science==Faculty of Science==http://www.bath.ac.uk/science/
++sensors==Centre for Advanced Sensor Technologies==Centre for Advanced Sensor Technologies==http://www.bath.ac.uk/elec-eng/research/cast/
++site==A to Z index==Alphabetical list of web sites and content on the bath.ac.uk domain.==http://www.bath.ac.uk/index/
++society==Centre for Business, Organisations and Society==Centre for Business, Organisations and Society==http://www.bath.ac.uk/cbos/
++space==Centre for Space, Atmospheric and Oceanic Science==Centre for Space, Atmospheric and Oceanic Science==http://www.bath.ac.uk/csaos/
++sport==Sports Development==Information about Sport at Bath, including sports courses, student sport clubs and Team Bath.  ==http://www.bath.ac.uk/sports/
++student==Current students==Information for current students. ==http://www.bath.ac.uk/students/
++student==Study options==Undergraduate and postgraduate courses and professional development courses. Information for anyone thinking about studying at the University of Bath. ==http://www.bath.ac.uk/study/
++studentpad==Private housing==Bath Studentpad is an accommodation search engine. You can search our recommended accommodation in Bath and its surrounding areas. ==http://www.bath.ac.uk/accommodation/private-housing/studentpad/index.html
++students==Study options==Undergraduate and postgraduate courses and professional development courses. Information for anyone thinking about studying at the University of Bath. ==http://www.bath.ac.uk/study/
++students==Current students==Current students==http://www.bath.ac.uk/students/
++term==Semesters==Semesters==http://www.bath.ac.uk/semester/
++training==Staff Development==Information and resources to support staff learning and development. ==http://www.bath.ac.uk/staff-development/
++ucu==UCU==UCU==http://www.bath.ac.uk/ucu/
++UK-SHEC==United Kingdom Sustainable Hydrogen Energy Consortium==United Kingdom Sustainable Hydrogen Energy Consortium==http://www.uk-shec.org.uk/
++unison==UNISON==UNISON==http://www.bath.ac.uk/unison/
++vacancies==JobLink==Find part-time work opportunities and local 3 month internships with Joblink.==http://www.bathstudent.com/joblink/
++vacancies==Jobs==Find job vacancies at the University of Bath.==http://www.bath.ac.uk/jobs/
++webmail==Email==Access your University email account.==https://mail.bath.ac.uk/
+%cms==Content Management System==Login to the University of Bath Content Management System.==https://cms.bath.ac.uk/
+%wiki==University of Bath Wiki==University of Bath Wiki Service==https://wiki.bath.ac.uk/dashboard.action
++exam results==SAMIS online==SAMIS online==https://www.bath.ac.uk/samis/urd/sits.urd/run/siw_lgn
++examination results==SAMIS online==SAMIS online==https://www.bath.ac.uk/samis/urd/sits.urd/run/siw_lgn
+%examination results==Students==Students==http://www.bath.ac.uk/students/
++results==SAMIS online==SAMIS online==https://www.bath.ac.uk/samis/urd/sits.urd/run/siw_lgn
+%architecture==Undergraduate Prospectus: Architecture==Undergraduate Prospectus: Architecture==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=architecture
+%Economics==Undergraduate Prospectus: Economics==Undergraduate Prospectus: Economics==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Economics
+%Education==Undergraduate Prospectus:  Education==Undergraduate Prospectus:  Education==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Education
+%Health==Undergraduate Prospectus:  Health==Undergraduate Prospectus:  Health==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=psychology+sociology
+%Psychology==Undergraduate Prospectus:  Psychology==Undergraduate Prospectus:  Psychology==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Psychology
+%politics==Undergraduate Prospectus:  Politics==Undergraduate Prospectus:  Politics==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=politics
+%languages==Undergraduate Prospectus:  Languages==Undergraduate Prospectus:  Languages==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=languages
+%French==Undergraduate Prospectus:  French==Undergraduate Prospectus:  French==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=French
+%German==Undergraduate Prospectus:  German==Undergraduate Prospectus:  German==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=German
+%Russian==Undergraduate Prospectus:  Russian==Undergraduate Prospectus:  Russian==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Russian
+%Chinese==Undergraduate Prospectus:  Chinese==Undergraduate Prospectus:  Chinese==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Chinese
+%Italian==Undergraduate Prospectus:  Italian==Undergraduate Prospectus:  Italian==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Italian
+%Spanish==Undergraduate Prospectus:  Spanish==Undergraduate Prospectus:  Spanish==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Spanish
+%Japanese==Undergraduate Prospectus:  Japanese==Undergraduate Prospectus:  Japanese==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Japanese
+%Management==Undergraduate Prospectus:  Management==Undergraduate Prospectus:  Management==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Management
+%Chemistry==Undergraduate Prospectus:  Chemistry==Undergraduate Prospectus:  Chemistry==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Chemistry
+%Physics==Undergraduate Prospectus:  Physics==Undergraduate Prospectus:  Physics==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Physics
+%Biology==Undergraduate Prospectus:  Biology==Undergraduate Prospectus:  Biology==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Biology
+%Biochemistry==Undergraduate Prospectus:  Biochemistry==Undergraduate Prospectus:  Biochemistry==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=Biochemistry
+%pharmacy==Undergraduate Prospectus:  Pharmacy==Undergraduate Prospectus:  Pharmacy==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=pharmacy
+%pharmacology==Undergraduate Prospectus:  Pharmacology==Undergraduate Prospectus:  Pharmacology==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=pharmacology
+%maths==Undergraduate Prospectus:  Mathematical Sciences==Undergraduate Prospectus:  Mathematical Sciences==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=maths
+%mathematics==Undergraduate Prospectus:  Mathematical Sciences==Undergraduate Prospectus:  Mathematical Sciences==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=mathematics
+%math==Undergraduate Prospectus:  Mathematical Sciences==Undergraduate Prospectus:  Mathematical Sciences==http://www.bath.ac.uk/study/ug/prospectus/search/searchresult?searchterm=math
+%architecture==Postgraduate Prospectus:  Architecture==Postgraduate Prospectus:  Architecture==http://www.bath.ac.uk/study/pg/department/ace
+%Economics==Postgraduate Prospectus: Economics==Postgraduate Prospectus: Economics==http://www.bath.ac.uk/study/pg/department/ec
+%Education==Postgraduate Prospectus: Education==Postgraduate Prospectus: Education==http://www.bath.ac.uk/study/pg/department/education
+%Health==Postgraduate Prospectus: Health==Postgraduate Prospectus: Health==http://www.bath.ac.uk/study/pg/department/health
+%Psychology==Postgraduate Prospectus: Psychology==Postgraduate Prospectus: Psychology==http://www.bath.ac.uk/study/pg/department/Psychology
+%politics==Postgraduate Prospectus: Politics==Postgraduate Prospectus: Politics==http://www.bath.ac.uk/study/pg/department/polis
+%languages==Postgraduate Prospectus: Languages==Postgraduate Prospectus: Languages==http://www.bath.ac.uk/study/pg/department/polis
+%French==Postgraduate Prospectus: French==Postgraduate Prospectus: French==http://www.bath.ac.uk/study/pg/department/polis
+%German==Postgraduate Prospectus: German==Postgraduate Prospectus: German==http://www.bath.ac.uk/study/pg/department/polis
+%Russian==Postgraduate Prospectus: Russian==Postgraduate Prospectus: Russian==http://www.bath.ac.uk/study/pg/department/polis
+%Chinese==Postgraduate Prospectus: Chinese==Postgraduate Prospectus: Chinese==http://www.bath.ac.uk/study/pg/department/polis
+%Italian==Postgraduate Prospectus: Italian==Postgraduate Prospectus: Italian==http://www.bath.ac.uk/study/pg/department/polis
+%Spanish==Postgraduate Prospectus: Spanish==Postgraduate Prospectus: Spanish==http://www.bath.ac.uk/study/pg/department/polis
+%Japanese==Postgraduate Prospectus: Japanese==Postgraduate Prospectus: Japanese==http://www.bath.ac.uk/study/pg/department/polis
+%Management==Postgraduate Prospectus: Management==Postgraduate Prospectus: Management==http://www.bath.ac.uk/study/pg/department/management
+%Chemistry==Postgraduate Prospectus: Chemistry==Postgraduate Prospectus: Chemistry==http://www.bath.ac.uk/study/pg/department/chemistry
+%Physics==Postgraduate Prospectus: Physics==Postgraduate Prospectus: Physics==http://www.bath.ac.uk/study/pg/department/physics
+%Biology==Postgraduate Prospectus: Biology==Postgraduate Prospectus: Biology==http://www.bath.ac.uk/study/pg/department/bio-sci
+%Biochemistry==Postgraduate Prospectus: Biochemistry==Postgraduate Prospectus: Biochemistry==http://www.bath.ac.uk/study/pg/department/bio-sci
+%pharmacy==Postgraduate Prospectus: Pharmacy==Postgraduate Prospectus: Pharmacy==http://www.bath.ac.uk/study/pg/department/pharmacy
+%pharmacology==Postgraduate Prospectus: Pharmacology==Postgraduate Prospectus: Pharmacology==http://www.bath.ac.uk/study/pg/department/pharmacy
+%maths==Postgraduate Prospectus: Mathematical Sciences==Postgraduate Prospectus: Mathematical Sciences==http://www.bath.ac.uk/study/pg/department/math-sci
+%mathematics==Postgraduate Prospectus: Mathematical Sciences==Postgraduate Prospectus: Mathematical Sciences==http://www.bath.ac.uk/study/pg/department/math-sci
+%math==Postgraduate Prospectus: Mathematical Sciences==Postgraduate Prospectus: Mathematical Sciences==http://www.bath.ac.uk/study/pg/department/math-sci
+%opus==Opus: Online Publications Store==Opus: Online Publications Store==http://opus.bath.ac.uk/
