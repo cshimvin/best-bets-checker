@@ -10,6 +10,9 @@ You need to ensure that the following environment variables are set:
 * FUNNELBACK_DOMAIN
 * FUNNELBACK_PORT
 
+The following folder also needs to be created:
+* data
+
 To run:
 
 <code>ruby check-best-bets.rb [internal|external]</code>
