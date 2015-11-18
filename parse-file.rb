@@ -51,3 +51,22 @@ def output_file(type)
 		end
 	end
 end
+
+
+def get_response_code(address)
+	require "net/http"
+	require "uri"
+	cleaned_address = address.strip
+	encoded_url = URI.encode(cleaned_address)
+	uri = URI.parse(encoded_url)
+	begin
+		response = Net::HTTP.get_response(uri)
+		if response.code == 200
+			return "#{response.message} (#{response.code})"
+		else
+			return "#{response.message} (#{response.code})"
+		end
+	rescue 
+		return "Unknown"
+	end
+end
