@@ -1,0 +1,14 @@
+<div class="row">
+  <h1>Funnelback best bets checker</h1>
+  <h2><%= title %></h2>
+</div>
+
+<div class="row">
+  <p><%= filename %></p>
+  <table>
+  <tr><th>Search term</th><th>Title</th><th>Description</th><th>URL</th></tr>
+  <% File.open(filename).each do |line| %>
+    <tr><td><%= line.gsub("==","</td><td>") %></tr>
+  <% end %>
+  </table>
+</div>

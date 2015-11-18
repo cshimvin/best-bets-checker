@@ -1,9 +1,10 @@
 # Set filenames
 
-data_folder = "data"
-@internal_filename = "#{data_folder}/best-bets-internal.txt"
-@external_filename = "#{data_folder}/best-bets-external.txt"
-
+def set_constants
+	data_folder = "data"
+	@internal_filename = "#{data_folder}/best-bets-internal.txt"
+	@external_filename = "#{data_folder}/best-bets-external.txt"
+end
 
 # Check if internal or external parameter has been specified and process according to parameter
 def check_parameters
@@ -17,6 +18,7 @@ end
 
 # Process internal or external best bets file
 def process_file(type)
+	set_constants
 	if type == "internal"
 		if File.exist?(@internal_filename)
 			output_file("internal")
@@ -36,6 +38,7 @@ end
 
 
 def output_file(type)
+	set_constants
 	if type == "internal"
 		File.open(@internal_filename).each do |line|
     		puts line.gsub("==","\n")
