@@ -6,13 +6,9 @@
 <div class="row">
   <p><%= filename %></p>
   <table>
-  <tr><td>Search term</td><td>Title</td><td>Description</td><td>URL</td>
+  <tr><td>Search term</td><td>Title</td><td>Description</td><td>URL</td></tr>
   <% File.open(filename).each do |line| %>
-  <% if line[0] == '%' %>
-    </tr><tr><td><%= line.gsub("==","\n") %></td>
-  <% else %>
-    <td><%= line.gsub("==","\n") %></td>
-  <% end %>
+    <tr><td><%= line.gsub("==","</td><td>") %></tr>
   <% end %>
   </table>
 </div>
