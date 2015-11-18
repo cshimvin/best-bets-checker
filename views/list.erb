@@ -4,11 +4,17 @@
 </div>
 
 <div class="row">
-  <p><%= filename %></p>
   <table>
-  <tr><th>Search term</th><th>Title</th><th>Description</th><th>URL</th></tr>
+  <tr><th>Search term</th><th>Title</th><th>Description</th><th>URL</th><th>Response code</th></tr>
   <% File.open(filename).each do |line| %>
-    <tr><td><%= line.gsub("==","</td><td>") %></tr>
-  <% end %>
+    <% cells = line.split("==") %>
+    <tr>
+      <td><%= cells[0] %></td>
+      <td><%= cells[1] %></td>
+      <td><%= cells[2] %></td>
+      <td><a href="<%= cells[3] %>" target="_blank"><%= cells[3] %></a></td>
+      <td><%= get_response_code(cells[3]) %></td>
+    </tr>
+    <% end %>
   </table>
 </div>

@@ -1,6 +1,6 @@
 require 'sinatra'
 require './download-data'
-require "./parse-file"
+require './parse-file'
 
 set :static, true
 set :public_folder, File.dirname(__FILE__) + '/static'
@@ -16,7 +16,6 @@ end
 get '/internal/' do
 
   download_internal_best_bets
-  # process_file("internal")
 
   erb :list, :locals => {
     'title' => 'Internal', 
@@ -29,7 +28,6 @@ end
 get '/external/' do
 
   download_external_best_bets
-  # process_file("external")
   title = "External"
 
    erb :list, :locals => {
