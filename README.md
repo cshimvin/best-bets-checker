@@ -19,7 +19,7 @@ To run the basic report:
 
 This currently downloads the specified best bets file and outputs it.
 
-To run the web app, ensure sinatra is installed then go to your browser and use the URL:
+To run the web app, ensure sinatra is installed, run <code>ruby web-app.rb</code> then go to your browser and use the URL:
 
 <code>http://localhost:4567/</code>
 
